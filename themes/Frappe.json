@@ -1,17 +1,17 @@
 {
-	"name": "Frappe",
-	"version": "1.1",
-	"description": "Catppuccin Frappe.",
-	"color": "#ca9ee6",
+	"name": "Tooper",
+	"version": "1.0",
+	"description": "Tooper is a dog.",
+	"color": "#30EBFA",
 	"authors": [
 		{
-			"name": "112c",
-			"id": "696446023815397456"
+			"name": "RedShkes",
+			"id": "879609646288076842"
 		}
 	],
 	"theme_color_map": {
 		"KEYBOARD": ["#303446", "#303446"],
-		"ACTIVITY_CARD_BACKGROUND": ["#303446", "#303446"],
+		"ACTIVITY_CARD_BACKGROUND": ["#30EBFA", "#30EBFA"],
 		"BACKGROUND_ACCENT": ["#292c3c", "#292c3c"],
 		"BACKGROUND_FLOATING": ["#292c3c", "#292c3c"],
 		"BACKGROUND_MENTIONED": ["#ef9f76", "#ef9f76"],
@@ -29,7 +29,7 @@
 		"BACKGROUND_SECONDARY_ALT": ["#303446", "#303446"],
 		"BACKGROUND_TERTIARY": ["#292c3c", "#292c3c"],
 		"CHANNELS_DEFAULT": ["#c6d0f5", "#c6d0f5"],
-		"CHANNEL_ICON": ["#8caaee", "#8caaee"],
+		"CHANNEL_ICON": ["#30EBFA", "#30EBFA"],
 		"CHANNELTEXTAREA_BACKGROUND": ["#303446", "#303446"],
 		"CONTROL_BRAND_FOREGROUND": ["#303446", "#303446"],
 		"CONTROL_BRAND_FOREGROUND_NEW": ["#303446", "#303446"],
