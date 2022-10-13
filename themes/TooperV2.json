@@ -1,7 +1,7 @@
 {
-	"name": "Tooper",
+	"name": "TooperV2",
 	"version": "1.0",
-	"description": "Tooper is a IDK.",
+	"description": "Tooper now has a background",
 	"color": "#30EBFA",
 	"authors": [
 		{
@@ -107,4 +107,10 @@
 		"unsafe_colors": {
 			"CHAT_GREY": "#313244"
 		}
+}
+{,
+  "background" {
+    "blur": 0.1,
+    "url": "Link goes here",
+    "alpha": 1.0
 }
