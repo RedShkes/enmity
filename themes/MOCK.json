@@ -1,16 +1,16 @@
 {
-    "name": "RosiePink",
-    "description": "Rosie but more pink <33",
+    "name": "Crayon",
+    "description": "Crayon blue with isk",
     "version": "1.0",
     "authors": [
       {
-        "name": "acquite",
-        "id": "581573474296791211"
+        "name": "RedShkes",
+        "id": "879609646288076842"
       }
     ],
     "theme_color_map": {
       "HEADER_PRIMARY": [
-        "#e386a6",
+        "#63ADFC",
         "#060607"
       ],
       "HEADER_SECONDARY": [
@@ -22,12 +22,12 @@
         "#382e36"
       ],
       "TEXT_MUTED": [
-        "#e08ba9",
-        "#8d7483"
+        "#63ADFC",
+        "#768A88"
       ],
       "INTERACTIVE_NORMAL": [
         "#c8c8c8",
-        "#604f59"
+        "#4F5960"
       ],
       "INTERACTIVE_HOVER": [
         "#dedcdd",
@@ -38,8 +38,8 @@
         "#070607"
       ],
       "INTERACTIVE_MUTED": [
-        "#ab6993",
-        "#d1c7ce"
+        "#63ADFC",
+        "#DFDFDF"
       ],
       "BACKGROUND_PRIMARY": [
         "#261f24",
@@ -47,7 +47,7 @@
       ],
       "BACKGROUND_SECONDARY": [
         "#292127",
-        "#f5f2f5"
+        "#FFFFFF"
       ],
       "BACKGROUND_SECONDARY_ALT": [
         "#292128",
@@ -58,8 +58,8 @@
         "#e8e3e7"
       ],
       "BACKGROUND_ACCENT": [
-        "#de87c1",
-        "#8d7484"
+        "#63ADFC",
+        "#74878D"
       ],
       "BACKGROUND_FLOATING": [
         "#211a1f",
@@ -98,7 +98,7 @@
         "hsla(310, 6%, 7%, 0.08)"
       ],
       "SCROLLBAR_THIN_THUMB": [
-        "#581849",
+        "#184858",
         "hsla(310, 7%, 6%, 0.3)"
       ],
       "SCROLLBAR_THIN_TRACK": [
@@ -106,7 +106,7 @@
         "hsla(0, 0%, 0%, 0)"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-        "#581839",
+        "#184458",
         "#cccccc"
       ],
       "SCROLLBAR_AUTO_TRACK": [
@@ -122,7 +122,7 @@
         "#806a7a"
       ],
       "TEXT_LINK": [
-        "#de87ca",
+        "#63ADFC",
         "#000000"
       ],
       "KEYBOARD": [
@@ -151,7 +151,7 @@
     },
     "background": {
       "blur": 0.1,
-      "url": "https://media.discordapp.net/attachments/836793351818706984/1011473596704636928/image0.jpg",
+      "url": "https://cdn.discordapp.com/attachments/1025780702341501124/1030082358826782730/IMG_7752.jpg",
       "alpha": 1.0
     }
   }
